@@ -500,8 +500,7 @@
             <div class="px-4 pt-5 footer-top">
                 <h2>
                     <a href="index.html">
-                        <span>A</span>gro
-                        <span>F</span>ield
+                        <span>Nemana</span>
                     </a>
                 </h2>
             </div>
