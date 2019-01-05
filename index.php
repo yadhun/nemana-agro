@@ -49,14 +49,11 @@
                                     <a class="nav-link" href="#about">about</a>
                                 </li>
                             <li class="nav-item  mr-3">
-                                <a class="nav-link" href="#services">services</a>
+                                <a class="nav-link" href="#features">products</a>
                             </li>
                             <li class="nav-item mr-3">
                                 <a class="nav-link" href="#gallery">Gallery</a>
                             </li>
-                            <li class="nav-item  mr-3">
-                                    <a class="nav-link" href="#features">products</a>
-                                </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#contact">contact</a>
                             </li>
@@ -461,8 +458,8 @@
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#services">
-                                Services
+                            <a href="#features">
+                                Products
                             </a>
                         </li>
                         <li>
