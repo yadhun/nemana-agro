@@ -181,7 +181,6 @@ h3.w3f_title {
 
 .banner-main {
 	position: relative;
-	
 }
 
 .banner-main:before {
@@ -1078,7 +1077,7 @@ ul.portfolio-area li figure {
 /*-- features--*/
 
 .features-agile {
-	background: url(../images/feature.jpg) no-repeat center;
+	background: url(../images/1.webp) no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
@@ -2354,11 +2353,11 @@ a.blog-button:hover {
 }
 
 @media screen and (max-width: 900px) {
-	.banner-main {
-		margin-top: 66px;
-	}
 	.callbacks_tabs {
 		bottom: -50px;
+	}
+	.banner-main {
+		margin-top: 66px;
 	}
 }
 
@@ -2598,3 +2597,8 @@ a.blog-button:hover {
 }
 
 /* -- //Responsive code -- */
+@media screen and (max-width: 900px){
+	.address{
+		margin-top: 25px;
+	}
+}
