@@ -32,6 +32,39 @@
 </head>
 
 <body>
+        <header>
+                <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary pt-3">
+                    <button class="navbar-toggler home-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        menu
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-lg-auto text-center">
+                            <li class="nav-item active  mr-3">
+                                <a class="nav-link" href="#banner">Home
+                                    <span class="sr-only">(current)</span>
+                                </a>
+                            </li>
+                            <li class="nav-item  mr-3">
+                                    <a class="nav-link" href="#about">about</a>
+                                </li>
+                            <li class="nav-item  mr-3">
+                                <a class="nav-link" href="#services">services</a>
+                            </li>
+                            <li class="nav-item mr-3">
+                                <a class="nav-link" href="#gallery">Gallery</a>
+                            </li>
+                            <li class="nav-item  mr-3">
+                                    <a class="nav-link" href="#features">products</a>
+                                </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#contact">contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                </nav>
+            </header>
     <!-- banner -->
     <div class="d-lg-flex banner-main">
         <div class="col-lg-4 header-left">
@@ -77,39 +110,7 @@
         </div>
         <!-- header -->
         <div class="col-lg-8 banner p-0" id="home">
-            <header>
-                <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary pt-3">
-                    <button class="navbar-toggler home-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                        menu
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav ml-lg-auto text-center">
-                            <li class="nav-item active  mr-3">
-                                <a class="nav-link" href="#banner">Home
-                                    <span class="sr-only">(current)</span>
-                                </a>
-                            </li>
-                            <li class="nav-item  mr-3">
-                                    <a class="nav-link" href="#about">about</a>
-                                </li>
-                            <li class="nav-item  mr-3">
-                                <a class="nav-link" href="#services">services</a>
-                            </li>
-                            <li class="nav-item mr-3">
-                                <a class="nav-link" href="#gallery">Gallery</a>
-                            </li>
-                            <li class="nav-item  mr-3">
-                                    <a class="nav-link" href="#features">products</a>
-                                </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#contact">contact</a>
-                            </li>
-                        </ul>
-                    </div>
 
-                </nav>
-            </header>
             <!-- //header -->
             <!-- banner-text -->
             <div class="banner-text" id="banner">
