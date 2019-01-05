@@ -476,7 +476,7 @@
                             </div>
                         </div>
                         <div class="col-md-1"></div>
-                        <div class="col-md-5 element-animate">
+                        <div class="col-md-5 element-animate" style="margin-top: 25px;">
                           
                           <h5 class="text-uppercase mb-3" style="color:#fff;">Address</h5>
                           <p class="mb-5" style="color:#fff;">Vishweshwaraiah Canal (V.C) Farm,<br/> Mandya-Melkote Road,<br/> Mandya, Karnataka 571405</p>
